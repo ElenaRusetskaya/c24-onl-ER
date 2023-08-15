@@ -4,6 +4,10 @@ import java.util.Arrays;
 
 public class Main2
 {
+    /**
+     *Задача 2:
+     * Найти минимальный-максимальный элементы и вывести в консоль.
+     */
     public static void main(String[] args)
     {
         int [] month = {3, 7, 6, 4, 3, 6, 1};
